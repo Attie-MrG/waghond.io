@@ -1,1 +1,2 @@
 # waghond.io
+New Details
